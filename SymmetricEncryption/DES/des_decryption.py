@@ -247,5 +247,5 @@ if __name__ == '__main__':
 
     d = des()
     plaintext = d.decrypt(key,ciphertext)
-    print "Results : %s" % plaintext
+    print "Result : %s" % plaintext
 
